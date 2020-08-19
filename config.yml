@@ -10,28 +10,28 @@ users:
     password: teste
 
   - username: gdorf
-    email: gannon@veloe.com.br
+    email: gannon@tst.example.com.br
     first_name: Gannon
     is_superuser: false
     last_name: Dorf
     password: teste
 
   - username: zelda
-    email: zelda@veloe.com.br
+    email: zelda@tst.example.com.br
     first_name: Zelda
     is_superuser: false
     last_name: Smith
     password: teste
 
   - username: epona
-    email: epona@veloe.com.br
+    email: epona@tst.example.com.br
     first_name: Epona
     is_superuser: false
     last_name: Horse
     password: teste     
 
   - username: demise
-    email: demise@veloe.com.br
+    email: demise@tst.example.com.br
     first_name: De
     is_superuser: false
     last_name: Mise
